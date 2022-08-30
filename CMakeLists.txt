@@ -18,7 +18,7 @@ else()
 	add_compile_definitions(RELEASE_BUILD)
 endif()
 
-PROJECT(ElectricGraph VERSION 0.1)
+PROJECT(OpenGLRendering VERSION 0.1)
 
 
 add_subdirectory(${CMAKE_SOURCE_DIR}/src)
