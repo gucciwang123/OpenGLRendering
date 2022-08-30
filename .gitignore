@@ -1,0 +1,23 @@
+#build files
+build
+bin
+lib
+.ccls-cache
+*/.ccls-cache
+compile_commands.json
+*/compile_commands.json
+
+#Cmake Files
+*/CMakeLists.txt.user
+*/CMakeCache.txt
+*/CMakeFiles
+*/CMakeScripts
+*/Testing
+*/Makefile
+*/cmake_install.cmake
+*/install_manifest.txt
+*/compile_commands.json
+*/CTestTestfile.cmake
+*/_deps
+
+*/*.*/
